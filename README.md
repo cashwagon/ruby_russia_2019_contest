@@ -9,4 +9,4 @@
 
 Победителем стал **Алексей** (фамилия не указана), наши поздравления!
 
-![](https://media.giphy.com/media/lnmPtFZB9F1rOk1u3e/giphy.gif)
+![](winner.gif)
